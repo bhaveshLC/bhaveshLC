@@ -31,13 +31,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🌱 My known techs *Core_Java, Jdbc, MySQL, Python, Javascript, HTML, CSS, BootStrap, Angular, Git
 
-- 👨‍💻 All of my projects are available at [https://github.com/sanketparsewar](https://github.com/sanketparsewar)
-
-- 🔗 View my LinkedIn profile at [https://www.linkedin.com/in/sanketparsewar97](https://www.linkedin.com/in/sanketparsewar97)
-
-- 📄 My Updated [Resume](https://www.linkedin.com/in/sanketparsewar97/overlay/1720705836164/single-media-viewer/?profileId=ACoAADQDar8BiC1YxMTtQUqumeqdByPPw05MDg4)
-
-- 📫 How to reach me *sanket.parsewar97@gmail.com*
 
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -134,18 +127,4 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/sanketparsewar97/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanketparsewar97/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sanketp2001" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/sanketp2001" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/sanket_parsewar1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/sanket_parsewar1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sanketparsewar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sanketparsewar/" height="30" width="40" /></a>
-</p>
-
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sanketparsewar&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanketparsewar&show_icons=true&theme=radical)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketparsewar&layout=compact&theme=cobalt&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshLC&layout=compact&theme=cobalt&hide_border=true" />
