@@ -3,8 +3,8 @@
 I'm a **Software Engineer** passionate about building scalable web applications and working with modern technologies. I have experience in **Angular, React.js, Node.js, Java (Spring Boot), and Databases (MySQL, MongoDB)**. I enjoy solving problems, learning new technologies, and contributing to open-source projects.
 
 ### 🔥 About Me
-- 💼 **Trainee Software Engineer** at **Angular Minds (Pune)**
-- 🎓 **BE in Computer Engineering** from **RMD Sinhgad School of Engineering, Pune**
+- 💼 **Trainee Software Engineer**
+- 🎓 **BE in Computer Engineering**
 - 🛠️ Skilled in **Frontend & Backend Development, Database Management, and API Development**
 - 🌱 Currently improving my **English & problem-solving skills**
 - 🚀 Interested in **Big Data & Scalable Systems**
