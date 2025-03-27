@@ -20,12 +20,12 @@ I'm a **Software Engineer** passionate about building scalable web applications 
 
 ### 📌 Featured Projects
 
-- **[SocialLink](https://github.com/bhaveshLC/SocialLink)** - A social media platform built with React.js & Spring Boot
-- **[Marine Animal Detection](https://github.com/bhaveshLC/Marine-Detection)** - YOLOv8-based marine animal detection using a custom dataset
-- **[E-commerce Website](https://github.com/bhaveshLC/Ecommerce-Angular)** - A full-stack ecommerce platform using Angular & Node.js
+- **[SocialLink]** - A social media platform built with React.js & Spring Boot
+- **[Marine Animal Detection]** - YOLOv8-based marine animal detection using a custom dataset
+- **[E-commerce Website]** - A full-stack ecommerce platform using Angular & Node.js
 
 ### 📫 Connect With Me
-- 🔗 [LinkedIn](https://www.linkedin.com/in/bhavesh-chaudhari)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bhavesh-chaudhari-31b899221)  
 - 🌐 **[Portfolio](#)** (Coming Soon!)
 
 🔹 _"Code, Learn, Build, and Improve!"_
