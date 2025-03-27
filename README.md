@@ -26,7 +26,6 @@ I'm a **Software Engineer** passionate about building scalable web applications 
 
 ### 📫 Connect With Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bhavesh-chaudhari)  
-- 📧 **bhaveshlc@gmail.com**  
 - 🌐 **[Portfolio](#)** (Coming Soon!)
 
 🔹 _"Code, Learn, Build, and Improve!"_
